@@ -5,7 +5,7 @@ from google.genai import types
 
 # 1. 網頁標題與外觀設定（這次不需要側邊欄了！）
 st.set_page_config(page_title="我的思想分身 AI", page_icon="🧠", layout="centered")
-st.title("🧠 歡迎來到我的數位思想分身聊天室")
+st.title("🧠 歡迎來到竹客 Jooker 聊天室")
 st.write("這個 AI 融合了我的語言風格與個人背景。不需任何設定，直接開始跟我聊聊吧！")
 
 
